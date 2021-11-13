@@ -1,0 +1,9 @@
+.welcome {
+    cursor: pointer;
+    /* center div*/
+    margin: 0 auto;
+
+    /* disable text selection*/
+    -webkit-touch-callout: none;
+    user-select: none;
+}
